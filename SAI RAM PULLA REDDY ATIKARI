@@ -1,0 +1,72 @@
+# Sai Ram Pulla Reddy - Portfolio
+
+## Hi, I'm Sai Ram Pulla Reddy!
+
+I'm a results-driven Data Analyst with 3.5 years of experience in e-commerce and retail analytics, currently pursuing a Master’s in Information Systems at Saint Louis University. I specialize in turning raw data into actionable insights using tools like SQL, Python, Tableau, and Power BI. My work has optimized ETL pipelines, improved customer retention, and significantly reduced data processing times. This GitHub portfolio showcases my projects, skills, and passion for data-driven solutions.
+
+## Feel free to connect with me:
+
+* 📍 Saint Louis, MO
+* 📧 [sairampullareddy.atikari@gmail.com](mailto:sairampullareddy.atikari@gmail.com)
+* 📞 +314-398-2488
+* [Your LinkedIn Profile URL](Your LinkedIn Profile URL)
+
+## About Me
+
+* **Experience:** 3.5 years as a Data Analyst, with roles at Data Consultancy Service (TCS) and Megha Engineering, focusing on e-commerce, retail, and digital marketing analytics.
+* **Education:**
+    * MS in Information Systems, Saint Louis University (Aug 2023 – May 2025)
+    * BE in Civil Engineering, G. Pulla Reddy Engineering College (Jul 2016 – Sep 2020)
+
+* **Mission:** Leverage data to solve real-world problems, from boosting business performance to uncovering hidden trends.
+
+## Skills
+
+* **Programming:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Dash), SQL, R (basic)
+* **Visualization:** Tableau, Power BI, Microsoft Excel
+* **Databases:** Snowflake, Amazon Redshift, BigQuery, SQLite, Heroku Postgres
+* **Big Data:** Apache Spark (basic)
+* **Other:** ETL/ELT, A/B Testing, Time Series Forecasting, Data Cleaning, Statistical Analysis, Git
+
+## Featured Projects
+
+* **[https://github.com/Sairam0503/Ecommerce-Customer-Analytics] - E-Commerce Analytics**
+    * **Tools:** Python (Pandas, Scikit-learn), Excel
+    * **Description:** An end-to-end analytics project analyzing e-commerce sales data to drive business strategy.
+        * Segmented customers into 4 groups using K-Means clustering and RFM analysis, identifying high-value and at-risk segments.
+        * Built a Random Forest model to predict churn, highlighting Recency as the top predictor via feature importance.
+        * Delivered actionable insights for targeted marketing, boosting repeat purchases by 18% in my professional work.
+
+* **[https://github.com/Sairam0503/crypto-sentiment-dashboard] - Crypto Sentiment Dashboard**
+    * **Tools:** Python (Dash, Plotly, PRAW), Heroku, Heroku Postgres
+    * **Description:** A real-time dashboard tracking Bitcoin price trends alongside Reddit sentiment.
+        * Integrated CryptoCompare API and Reddit API (PRAW) to collect 30 days of price, volume, and sentiment data.
+        * Designed live updates every 60 seconds using Python and Heroku Postgres for storage.
+        * Deployed on Heroku, offering crypto enthusiasts a scalable tool for investment insights.
+
+    * *(Check the repositories for code, datasets, and detailed walkthroughs!)*
+
+## Professional Experience Highlights
+
+* **Data Analyst | Tata Consultancy Service (TCS), Hyderabad, India**
+    * Dec 2021 – Aug 2023
+        * Optimized ETL pipelines with SQL, Python, and Spark, cutting data processing time by 40%.
+        * Built Tableau/Power BI dashboards to track e-commerce KPIs, improving conversion rates by 12%.
+        * Developed churn prediction models (XGBoost), reducing churn by 15%.
+
+* **Associate Data Analyst | Megha Engineering, Hyderabad, India**
+    * May 2020 – Dec 2021
+        * Analyzed digital marketing data with SQL and Google Analytics, boosting campaign engagement by 10%.
+        * Automated dashboards in Tableau/Power BI, reducing reporting time by 35%.
+        * Supported A/B testing, increasing user engagement by 15%.
+
+## Certifications
+* Microsoft Certified: Power BI Data Analyst Associate- [https://learn.microsoft.com/en-us/users/sairampullareddy-4676/credentials/435c9b239406f0c]
+* Microsoft Certified: Fabric Data Engineer Associate (In Progress)
+* Excelerate: Project Management Associate
+
+## What's Next?
+
+I'm diving deeper into cloud technologies (AWS, Azure) and advanced machine learning techniques. Expect more projects here soon—think demand forecasting, sentiment analysis, and maybe some R experimentation!
+
+Thanks for stopping by—let's connect if you're into data, analytics, or just want to chat about cool projects!
